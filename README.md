@@ -3,15 +3,21 @@
 ## 배울 내용
 ### Phase 1: Python 프로그래밍 기초
 - 변수, 입/출력, 조건문, 반복문, 함수, 클래스
+
 ### Phase 2: 데이터 핸들링
 - 다양한 포맷의 파일 읽기 (json, csv, tsv, excel, pdf, etc)
 - 데이터 베이스 연결하기 (mysql)
 - 데이터 전처리 및 통계적 분석
 - Numpy, Pandas, Matplotlib, Seaborn
+
 ### Phase 3: 머신러닝
-- 
+- Linear Regression, Logistic Regression
+- K-Nearest Neighbors Decision Tree, Random Forests
+- K-Means Clustering, Density-Based Clustering
+
 ### Phase 4: 빅데이터 프로그래밍
--
+- Hadoop Map-Reduce
+- Spark
 
 ## Curriculum
 
