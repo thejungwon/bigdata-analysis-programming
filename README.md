@@ -14,7 +14,7 @@
 - Linear Regression, Logistic Regression
 - K-Nearest Neighbors Decision Tree, Random Forests
 - K-Means Clustering, Density-Based Clustering
-
+- 시계열 분석, 이상감지
 ### Phase 4: 빅데이터 프로그래밍
 - Hadoop Map-Reduce
 - Spark
