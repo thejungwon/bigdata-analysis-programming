@@ -11,10 +11,10 @@
 - Numpy, Pandas, Matplotlib, Seaborn
 
 ### Phase 3: 머신러닝
-- Linear Regression, Logistic Regression
 - K-Nearest Neighbors Decision Tree, Random Forests
-- K-Means Clustering, Density-Based Clustering
-
+- K-Means Clustering, Density-Based Clustering, PCA
+- Linear Regression, Logistic Regression, Neural Networks
+- 시계열 분석, 이상감지
 ### Phase 4: 빅데이터 프로그래밍
 - Hadoop Map-Reduce
 - Spark
