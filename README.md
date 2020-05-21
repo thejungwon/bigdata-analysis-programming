@@ -33,9 +33,10 @@
 
 #### WEEK 02. Python 함수
 - 강의
-  > _강의자료_
+  > _[파이썬 함수](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-02.pdf)_
 - 실습  
-  > _W02-1. TBD_  
+  > _W02-1. Python: 함수 기본_
+  > _W02-2. Python: 함수 응용_
 #### WEEK 03. Python Class
 - 강의
   > _강의자료_
