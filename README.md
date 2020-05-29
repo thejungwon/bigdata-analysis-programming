@@ -39,9 +39,11 @@
   > _W02-2. Python: 함수 응용_  
 #### WEEK 03. Python Class
 - 강의
-  > _강의자료_
+  > _[파이썬 클래스](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-03.pdf)_
 - 실습  
-  > _W03-1. TBD_  
+  > _W03-1. Python: 클래스 기본_  
+  > _W03-2. Python: 클래스 응용_  
+  > _W03-2. Python: 클래스 연습문제_  
 
 #### WEEK 04. 데이터란?
 - 강의
