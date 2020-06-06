@@ -47,9 +47,11 @@
 
 #### WEEK 04. 데이터란?
 - 강의
-  > _강의자료_
+  > _[데이터](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-04.pdf)_
 - 실습  
-  > _W04-1. TBD_  
+  > _W04-1. FILE IO_  
+  > _W04-2. Numpy_  
+  > _W04-3. Pandas_  
 
 #### WEEK 05. 데이터 전처리
 - 강의
