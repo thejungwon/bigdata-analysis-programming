@@ -52,6 +52,7 @@
   > _W04-1. FILE IO_  
   > _W04-2. Numpy_  
   > _W04-3. Pandas_  
+  > _TASK 02: Distance and Similarity_  
 
 #### WEEK 05. 데이터 전처리
 - 강의
