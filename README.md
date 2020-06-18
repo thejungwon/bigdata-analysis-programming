@@ -51,14 +51,14 @@
 - 실습  
   > _W04-1. FILE IO_  
   > _W04-2. Numpy_  
-  > _W04-3. Pandas_  
   > _TASK 02: Distance and Similarity_  
 
 #### WEEK 05. 데이터 전처리
 - 강의
-  > _강의자료_
+  > _[데이터 전처리](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-05.pdf)_
 - 실습  
-  > _W05-1. TBD_  
+  > _W05-1. Pandas_  
+  > _W05-2. Data Preprocessing_  
 
 #### WEEK 06. 데이터 탐색
 - 강의
