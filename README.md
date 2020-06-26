@@ -62,10 +62,12 @@
 
 #### WEEK 06. 데이터 탐색
 - 강의
-  > _강의자료_
+  > _[데이터 전처리](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-06.pdf)_
 - 실습  
-  > _W06-1. TBD_  
-
+  > _W06-1. Matplotlib 기본_  
+  > _W06-1. Matplotlib 응용_  
+  > _W06-2. IRIS데이터 예제_   
+  > _과제 설명: [링크](https://yscec.yonsei.ac.kr/mod/assign/view.php?id=1750217)_   
 #### WEEK 07. 지도학습-Classification
 - 강의
   > _강의자료_
