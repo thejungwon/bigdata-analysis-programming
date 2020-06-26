@@ -66,7 +66,7 @@
 - 실습  
   > _W06-1. Matplotlib 기본_  
   > _W06-1. Matplotlib 응용_  
-  > _W06-2. IRIS데이터 예제_   
+  > _W06-3. IRIS데이터 예제_   
   > _과제 설명: [링크](https://yscec.yonsei.ac.kr/mod/assign/view.php?id=1750217)_   
 #### WEEK 07. 지도학습-Classification
 - 강의
