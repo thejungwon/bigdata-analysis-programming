@@ -68,6 +68,12 @@
   > _W06-1. Matplotlib 응용_  
   > _W06-3. IRIS데이터 예제_   
   > _과제 설명: [링크](https://yscec.yonsei.ac.kr/mod/assign/view.php?id=1750217)_   
+ 
+#### 보충자료
+- 실습  
+  > _Python1: 출력, 숫자, 문자열, 리스트, 딕셔너리_  
+  > _Python2: 함수, Numpy, Pandas_  
+  
 #### WEEK 07. 지도학습-Classification
 - 강의
   > _강의자료_
