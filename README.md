@@ -62,7 +62,7 @@
 
 #### WEEK 06. 데이터 탐색
 - 강의
-  > _[데이터 전처리](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-06.pdf)_
+  > _[데이터 탐색](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-06.pdf)_
 - 실습  
   > _W06-1. Matplotlib 기본_  
   > _W06-1. Matplotlib 응용_  
@@ -76,9 +76,10 @@
   
 #### WEEK 07. 지도학습-Classification
 - 강의
-  > _강의자료_
+  > _[지도학습-Classification](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-07.pdf)_
 - 실습  
-  > _W07-1. TBD_  
+  > _W07-1. KNN_  
+  > _W07-1. Decision Tree_  
 
 #### WEEK 08. 지도학습-Regression
 - 강의
