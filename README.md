@@ -79,14 +79,14 @@
   > _[지도학습-Classification](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-07.pdf)_
 - 실습  
   > _W07-1. KNN_  
-  > _W07-1. Decision Tree_  
+  > _W07-2. Decision Tree_  
 
 #### WEEK 08. 지도학습-Regression
 - 강의
-  > _강의자료_
+  > _[지도학습-Regression](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-08.pdf)_
 - 실습  
-  > _W08-1. TBD_  
-
+  > _W08-1. Linear Regression_  
+  > _W08-2. Regression Application_  
 #### WEEK 09. 비지도학습
 - 강의
   > _강의자료_
