@@ -89,9 +89,10 @@
   > _W08-2. Regression Application_  
 #### WEEK 09. 비지도학습
 - 강의
-  > _강의자료_
+  > _[비지도학습-Clustering](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-09.pdf)_
 - 실습  
-  > _W09-1. TBD_  
+  > _W09-1. Clustering Part-1_  
+  > _W09-2. Clustering Part-2_  
 #### WEEK 10. 이상탐지
 - 강의
   > _강의자료_
