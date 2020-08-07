@@ -93,21 +93,24 @@
 - 실습  
   > _W09-1. Clustering Part-1_  
   > _W09-2. Clustering Part-2_  
-#### WEEK 10. 이상탐지
+
+#### WEEK 10. 인공신경망
 - 강의
-  > _강의자료_
+  > _[인공신경망](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-10.pdf)_
 - 실습  
-  > _W10-1. TBD_  
-#### WEEK 11. 인공신경망
-- 강의
-  > _강의자료_
-- 실습  
-  > _W11-1. TBD_  
-#### WEEK 12. 시계열분석
+  > _W10-1. Image Classification 1_  
+  > _W10-1. Image Classification Using Deep Learning_    
+#### WEEK 11. 시계열분석
 - 강의
   > _강의자료_
 - 실습  
   > _W12-1. TBD_  
+
+#### WEEK 12. 이상탐지
+- 강의
+  > _강의자료_
+- 실습  
+  > _W10-1. TBD_  
 
 
 ## Contact
