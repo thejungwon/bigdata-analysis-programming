@@ -100,17 +100,19 @@
 - 실습  
   > _W10-1. Image Classification 1_  
   > _W10-1. Image Classification Using Deep Learning_    
-#### WEEK 11. 시계열분석
+#### WEEK 11. 이상탐지
+- 강의
+  > _[이상탐지](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-11.pdf)_
+- 실습  
+  > _W11-1. 저차원 데이터 이상탐지_  
+  > _W11-2. 이상탐지 알고리즘 비교_  
+  > _W11-3. 이상탐지 적용_  
+
+#### WEEK 12. 시계열분석
 - 강의
   > _강의자료_
 - 실습  
   > _W12-1. TBD_  
-
-#### WEEK 12. 이상탐지
-- 강의
-  > _강의자료_
-- 실습  
-  > _W10-1. TBD_  
 
 
 ## Contact
