@@ -110,9 +110,11 @@
 
 #### WEEK 12. 시계열분석
 - 강의
-  > _강의자료_
+  > _[시계열 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-12.pdf)_
 - 실습  
-  > _W12-1. TBD_  
+  > _W12-1. 시계열 데이터 기본 분석_  
+  > _W12-2. 전통적인 주시가격 예측_  
+  > _W12-3. 딥러닝 기반의 주식가격 예측_  
 
 
 ## Contact
