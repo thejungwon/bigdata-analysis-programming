@@ -117,5 +117,13 @@
   > _W12-3. 딥러닝 기반의 주식가격 예측_  
 
 
+#### WEEK 12. 빅데이터분석
+- 강의
+  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-13.pdf)_
+- 실습  
+  > _W13-0. Python Generator_  
+  > _W13-1. MRjob_  
+  > _W13-2. PySpark_  
+
 ## Contact
 서중원: [js@codethief.biz](js@codethief.biz)
