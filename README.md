@@ -117,7 +117,7 @@
   > _W12-3. 딥러닝 기반의 주식가격 예측_  
 
 
-#### WEEK 12. 빅데이터분석
+#### WEEK 13. 빅데이터분석
 - 강의
   > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-13.pdf)_
 - 실습  
