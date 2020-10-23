@@ -125,5 +125,14 @@
   > _W13-1. MRjob_  
   > _W13-2. PySpark_  
 
+
+
+#### WEEK 14. 빅데이터분석
+- 강의
+  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-14.pdf)_
+- 실습  
+  > _W14-1. Application1-Regression_  
+
+
 ## Contact
 서중원: [js@codethief.biz](js@codethief.biz)
