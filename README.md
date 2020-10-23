@@ -127,7 +127,7 @@
 
 
 
-#### WEEK 14. 빅데이터분석
+#### WEEK 14. Application-Regression
 - 강의
   > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-14.pdf)_
 - 실습  
