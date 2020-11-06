@@ -134,5 +134,11 @@
   > _W14-1. Application1-Regression_  
 
 
+#### WEEK 15. Application-Classification
+- 강의
+  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-15.pdf)_
+- 실습  
+  > _W15-1. Application2-Classification_  
+  
 ## Contact
 서중원: [js@codethief.biz](js@codethief.biz)
