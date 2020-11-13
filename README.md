@@ -129,21 +129,21 @@
 
 #### WEEK 14. Application-Regression
 - 강의
-  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-14.pdf)_
+  > _[회귀문제](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-14.pdf)_
 - 실습  
   > _W14-1. Application1-Regression_  
 
 
 #### WEEK 15. Application-Classification
 - 강의
-  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-15.pdf)_
+  > _[분류문제](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-15.pdf)_
 - 실습  
   > _W15-1. Application2-Classification_  
   
 
 #### WEEK 16. Application-Time Series Analysis
 - 강의
-  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-16-1.pdf)_
+  > _[시계열](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-16-1.pdf)_
 - 실습  
   > _W16-1. Preprocessing_  
   > _W16-2. AR_model_  
