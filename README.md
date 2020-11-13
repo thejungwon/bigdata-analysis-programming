@@ -140,5 +140,16 @@
 - 실습  
   > _W15-1. Application2-Classification_  
   
+
+#### WEEK 16. Application-Time Series Analysis
+- 강의
+  > _[빅데이터 분석](https://github.com/thejungwon/bigdata-analysis-programming/blob/master/lecture/week-16-1.pdf)_
+- 실습  
+  > _W16-1. Preprocessing_  
+  > _W16-2. AR_model_  
+  > _W16-3. ARMA_model_  
+  > _W16-4. SARIMA_model_  
+  > _W16-5. Anomaly_detection_  
+  
 ## Contact
 서중원: [js@codethief.biz](js@codethief.biz)
